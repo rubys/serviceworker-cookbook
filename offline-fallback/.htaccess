@@ -1,0 +1,5 @@
+AuthName "rubys:secret"
+AuthType Basic
+AuthUserFile /var/www/html/offline-fallback/htpasswd
+
+require valid-user
