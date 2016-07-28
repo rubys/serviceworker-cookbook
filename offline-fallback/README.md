@@ -7,7 +7,7 @@ Demonstrates issue with mixing HTTP basic authentication with Service Workers
 - copy this directory to someplace in your docroot
 - adjust path in htpasswd file
 - visit http://localhost/path/offline-fallback/
-- enter "rubys" and "secret" ass user and password
+- enter "rubys" and "secret" as user and password
 - (for Chrome) exit the browser completely, and come back and visit the page
 - (for Firefox) press "View Complete Demo Again", multiple times if necessary
 
